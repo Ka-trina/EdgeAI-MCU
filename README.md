@@ -2,8 +2,8 @@
 
 本專案為 Edge AI MCU 課程期末報告整理，內容包含課程各項實作作業、成果展示、EdgeAI MCU 可能應用設計，以及個人學習心得。課程中使用 AMB82-mini 作為主要實作平台，結合 Web Server、感測器、TFT LCD、Camera、AI Vision、TTS、GitHub Pages 等功能，練習將 AI 與嵌入式系統整合成實際可操作的應用。
 
-> GitHub Repository：`https://github.com/your-id/EdgeAI-MCU`  
-> GitHub Pages：`https://your-id.github.io/EdgeAI-MCU`
+GitHub Repository：https://github.com/Ka-trina/EdgeAI-MCU
+GitHub Pages：https://ka-trina.github.io/EdgeAI-MCU
 
 ---
 
