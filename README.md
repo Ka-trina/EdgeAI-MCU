@@ -211,8 +211,13 @@ if(hour>=0) {
 - 產生畫面辨識結果
 
 ### 實作成果
-https://github.com/Ka-trina/app-visual_assistant
-https://ka-trina.github.io/app-visual_assistant/
+GitHub 專案連結：
+https://github.com/Ka-trina/app-visual_assistant?utm_source=chatgpt.com
+
+GitHub Pages 介面連結：
+
+https://ka-trina.github.io/app-visual_assistant/?utm_source=chatgpt.com
+
 ![Visual Assistant 頁面 1](images/hw05_visual_assistant_p1.png)
 
 ![Visual Assistant 頁面 2](images/hw05_visual_assistant_p2.png)
