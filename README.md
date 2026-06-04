@@ -211,7 +211,8 @@ if(hour>=0) {
 - 產生畫面辨識結果
 
 ### 實作成果
-
+https://github.com/Ka-trina/app-visual_assistant
+https://ka-trina.github.io/app-visual_assistant/
 ![Visual Assistant 頁面 1](images/hw05_visual_assistant_p1.png)
 
 ![Visual Assistant 頁面 2](images/hw05_visual_assistant_p2.png)
@@ -355,6 +356,7 @@ String prompt_msg =
 這個 prompt 要求 AI 使用固定格式輸出，讓程式可以透過 `CN:` 與 `EN:` 將中文故事和英文翻譯分開。中文故事用於 TTS 播放，英文翻譯則顯示在 TFT LCD 上。
 
 ### 實作成果
+https://youtube.com/shorts/89vE1KZBm-Y?feature=share
 
 ![AI 看圖說故事成果](images/hw09_ai_story_p1.png)
 
